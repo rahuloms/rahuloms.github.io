@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul Shrivastava</title>
+    <link>https://rahuloms.github.io/</link>
+    <description>Recent content on Rahul Shrivastava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuloms.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food Inflation in India</title>
+      <link>https://rahuloms.github.io/post/inflation-in-india/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahuloms.github.io/post/inflation-in-india/</guid>
+      <description>Consumer Food Price Index In light of the protest by farmers from Punjab and Haryana over the 3 Farm laws passed in September, I decided to take a look at Food Inflation. The Consumer Price Index (CPI) in India has gone through a few changes since 2010 - the base year has changed from 2010 to 2012. The Consumer Food Price Index is a component of the overall CPI comrising the basket of food and beverages and this component remains the the most important basket with a weight of 45.</description>
+    </item>
+    
+    <item>
+      <title>Digital Banking Transactions</title>
+      <link>https://rahuloms.github.io/post/online-banking-transactions/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahuloms.github.io/post/online-banking-transactions/</guid>
+      <description>Explosive Growth of Mobile Banking A few days ago, HDFC bank suffered an outage at one of their data centres resulting in a many of the bank&amp;rsquo;s services going down - card payments, UPI, ATMs, netbanking, IMPS, NEFT etc.
+Digital infrastructure for the banks is strained from the rapid growth of mobile and online transactions in the country, growing at an even faster rate post onset of COVID-19 pandemic.
+The first round of rapid growth of mobile banking can be seen in 2017 following the demonetisation in November 2016.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rahuloms.github.io/about/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahuloms.github.io/about/</guid>
+      <description>Hi, I am Rahul and I have built this site to help myself and others learn about the economy, startups, fintech, climate change and development.
+This site will be used to share data visualizations on a variety of topics:
+ Indian Economy Digital Economy in South Asia FinTech Startups Climate Change  Feel free to share your thoughts and contribute on Twitter.
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rahuloms.github.io/contact/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahuloms.github.io/contact/</guid>
+      <description> &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt;&amp;lt;label for=&amp;quot;last-name&amp;quot;&amp;gt;Last Name&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;quot;last-name&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;text&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt;&amp;lt;label for=&amp;quot;email&amp;quot;&amp;gt;E-Mail&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;quot;email&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;email&amp;quot; required&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt;&amp;lt;label for=&amp;quot;city&amp;quot;&amp;gt;City&amp;lt;/label&amp;gt;&amp;lt;input id=&amp;quot;city&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;text&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt;&amp;lt;label for=&amp;quot;state&amp;quot;&amp;gt;State&amp;lt;/label&amp;gt;&amp;lt;select id=&amp;quot;state&amp;quot; class=&amp;quot;pure-input-1-2&amp;quot;&amp;gt;&amp;lt;option&amp;gt;AL&amp;lt;/option&amp;gt;&amp;lt;option&amp;gt;CA&amp;lt;/option&amp;gt;&amp;lt;option&amp;gt;IL&amp;lt;/option&amp;gt;&amp;lt;/select&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;fieldset class=&amp;quot;pure-group&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;text&amp;quot; class=&amp;quot;pure-input-1-2&amp;quot; placeholder=&amp;quot;A title&amp;quot;&amp;gt;&amp;lt;textarea class=&amp;quot;pure-input-1-2&amp;quot; placeholder=&amp;quot;Your message&amp;quot;&amp;gt;&amp;lt;/textarea&amp;gt;&amp;lt;/fieldset&amp;gt;&amp;lt;button type=&amp;quot;submit&amp;quot; class=&amp;quot;pure-button pure-button-primary&amp;quot;&amp;gt;Send&amp;lt;/button&amp;gt; </description>
+    </item>
+    
+  </channel>
+</rss>

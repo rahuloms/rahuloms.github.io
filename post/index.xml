@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rahul Shrivastava</title>
+    <link>https://rahuloms.github.io/post/</link>
+    <description>Recent content in Posts on Rahul Shrivastava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rahuloms.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food Inflation in India</title>
+      <link>https://rahuloms.github.io/post/inflation-in-india/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahuloms.github.io/post/inflation-in-india/</guid>
+      <description>Consumer Food Price Index In light of the protest by farmers from Punjab and Haryana over the 3 Farm laws passed in September, I decided to take a look at Food Inflation. The Consumer Price Index (CPI) in India has gone through a few changes since 2010 - the base year has changed from 2010 to 2012. The Consumer Food Price Index is a component of the overall CPI comrising the basket of food and beverages and this component remains the the most important basket with a weight of 45.</description>
+    </item>
+    
+    <item>
+      <title>Digital Banking Transactions</title>
+      <link>https://rahuloms.github.io/post/online-banking-transactions/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahuloms.github.io/post/online-banking-transactions/</guid>
+      <description>Explosive Growth of Mobile Banking A few days ago, HDFC bank suffered an outage at one of their data centres resulting in a many of the bank&amp;rsquo;s services going down - card payments, UPI, ATMs, netbanking, IMPS, NEFT etc.
+Digital infrastructure for the banks is strained from the rapid growth of mobile and online transactions in the country, growing at an even faster rate post onset of COVID-19 pandemic.
+The first round of rapid growth of mobile banking can be seen in 2017 following the demonetisation in November 2016.</description>
+    </item>
+    
+  </channel>
+</rss>
